@@ -11,7 +11,7 @@
 ```text
 .
 ├── slides/
-│   └── iHack 2026 - The Receipt Don't Lie - Slide.pptx   # Workshop presentation deck
+│   └── iHack 2026 - The Receipt Don't Lie - Slide.pdf   # Workshop presentation deck
 ├── docs/
 │   └── iHack 2026 - Receipt Don't Lie - Lab Sheet.docx   # Student step-by-step lab guide
 ├── logs/
