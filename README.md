@@ -13,9 +13,10 @@
 ├── slides/
 │   └── iHack 2026 - The Receipt Don't Lie - Slide.pdf   # Workshop presentation deck
 ├── labsheets/
-│   └── iHack 2026 - Receipt Don't Lie - Lab Sheet.docx   # Student step-by-step lab guide
+│   └── iHack 2026 - Receipt Don't Lie - Lab Sheet.pdf   # Student step-by-step lab guide
 ├── logs/
-│   ├── sample-auth.log                                   # SSH & authentication events
-│   ├── sample-access.log                                 # Web server request traffic
-│   └── sample-mail.log                                   # Postfix mail server records
+│   └── iHack 2026 - Receipt Don't Lie - Logs.zip
+│     ├── sample-auth.log                                   # SSH & authentication events
+│     ├── sample-access.log                                 # Web server request traffic
+│     └── sample-mail.log                                   # Postfix mail server records
 └── README.md
