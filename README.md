@@ -12,7 +12,7 @@
 .
 ├── slides/
 │   └── iHack 2026 - The Receipt Don't Lie - Slide.pdf   # Workshop presentation deck
-├── docs/
+├── labsheets/
 │   └── iHack 2026 - Receipt Don't Lie - Lab Sheet.docx   # Student step-by-step lab guide
 ├── logs/
 │   ├── sample-auth.log                                   # SSH & authentication events
